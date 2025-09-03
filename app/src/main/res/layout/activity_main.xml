@@ -80,13 +80,13 @@
         android:text="Square root"
         android:textSize="20sp"
         android:textStyle="italic"
-        android:layout_above="@id/btnClear"
+        android:layout_above="@id/btncheck"
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="16dp" />
 
     <!-- Tombol Clear -->
     <androidx.appcompat.widget.AppCompatButton
-        android:id="@+id/btnClear"
+        android:id="@+id/btncheck"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginStart="24dp"
